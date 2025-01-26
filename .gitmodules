@@ -7,9 +7,6 @@
 [submodule "avogadrodata"]
 	path = avogadrodata
 	url = https://github.com/OpenChemistry/avogadrodata.git
-[submodule "avogadroapp"]
-	path = avogadroapp
-	url = https://github.com/OpenChemistry/avogadroapp.git
 [submodule "thirdparty/VTK"]
 	path = thirdparty/VTK
 	url = https://github.com/Kitware/VTK.git
@@ -40,3 +37,7 @@
 [submodule "jupyter-examples"]
 	path = jupyter-examples
 	url = https://github.com/OpenChemistry/jupyter-examples.git
+[submodule "avogadroapp"]
+	path = avogadroapp
+	url = https://github.com/OpenChemistry/avogadroapp
+	branch = master
