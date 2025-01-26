@@ -1,9 +1,6 @@
 [submodule "molequeue"]
 	path = molequeue
 	url = https://github.com/OpenChemistry/molequeue.git
-[submodule "avogadrolibs"]
-	path = avogadrolibs
-	url = https://github.com/OpenChemistry/avogadrolibs.git
 [submodule "avogadrodata"]
 	path = avogadrodata
 	url = https://github.com/OpenChemistry/avogadrodata.git
@@ -40,4 +37,8 @@
 [submodule "avogadroapp"]
 	path = avogadroapp
 	url = https://github.com/OpenChemistry/avogadroapp
+	branch = master
+[submodule "avogadrolibs"]
+	path = avogadrolibs
+	url = https://github.com/OpenChemistry/avogadrolibs
 	branch = master
